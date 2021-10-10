@@ -1,2 +1,6 @@
-Hi Bell.  If you are reading this then we were successful in getting you to to copy (clone or pull) this
+Hi Bell,
+
+If you are reading this then we were successful in getting you to to copy (clone or pull) this
 github repo from github.com to your local host.
+
+Love you so much!!!!
